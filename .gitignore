@@ -1,2 +1,5 @@
-/app.js
-/README.md
+/node_modules
+README.md
+.env
+
+.gitignore
